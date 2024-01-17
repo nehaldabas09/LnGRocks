@@ -1,0 +1,2 @@
+# LnGRocks
+Assignment purpose 
